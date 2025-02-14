@@ -1,6 +1,6 @@
 # Business-Statistics-Course
 
-Bike Share : Hypothesis testing, Descriptive Analysis, Visualizations
+# Bike Share: Hypothesis testing, Descriptive Analysis, Visualizations
 ![image](https://github.com/user-attachments/assets/fe7cfeab-5de5-48fb-a69c-4e1e7d23b038)
 ![image](https://github.com/user-attachments/assets/b0e55d57-2595-47d4-9410-eb20fc75992c)
 ![image](https://github.com/user-attachments/assets/801b60f2-319d-4461-96c0-44988110b300)
@@ -12,7 +12,7 @@ Bike Share : Hypothesis testing, Descriptive Analysis, Visualizations
 
 
 
-Happiness: Logistic Regression, Evaluation(accuracy, precision, sensitivity, specificity, f1score, ROC, AUC), step function
+# Happiness: Logistic Regression, Evaluation(accuracy, precision, sensitivity, specificity, f1score, ROC, AUC), step function
 ![image](https://github.com/user-attachments/assets/19912875-350d-4ee1-828d-8890c1722e98)
 ![image](https://github.com/user-attachments/assets/410edcff-7fec-4c54-b1cb-2f19049934b2)
 ![image](https://github.com/user-attachments/assets/fdc7fb9b-f79c-4158-baf8-ddafc3082ff9)
