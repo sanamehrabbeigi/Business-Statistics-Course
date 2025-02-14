@@ -12,4 +12,10 @@ Bike Share : Hypothesis testing, Descriptive Analysis, Visualizations
 
 
 
-Hapiness: Logistic Regression, 
+Happiness: Logistic Regression, Evaluation(accuracy, precision, sensitivity, specificity, f1score, ROC, AUC), step function
+![image](https://github.com/user-attachments/assets/19912875-350d-4ee1-828d-8890c1722e98)
+![image](https://github.com/user-attachments/assets/410edcff-7fec-4c54-b1cb-2f19049934b2)
+![image](https://github.com/user-attachments/assets/fdc7fb9b-f79c-4158-baf8-ddafc3082ff9)
+![image](https://github.com/user-attachments/assets/caf69cee-088b-4a0f-bdd6-0d5ba9093805)
+![image](https://github.com/user-attachments/assets/d503fc15-94b6-4ac4-af60-5a090eb02274)
+![image](https://github.com/user-attachments/assets/25697a97-a39d-4318-b565-caf7ff8f6f94)
