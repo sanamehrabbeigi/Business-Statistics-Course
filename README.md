@@ -13,6 +13,8 @@
 
 
 # Happiness: Logistic Regression, Evaluation(accuracy, precision, sensitivity, specificity, f1score, ROC, AUC), step function
+Built a logistic regression model in R to predict whether individuals are happy based on GSS data, analyzing the impact of various attributes, interpreting coefficients using statistical methodologies, evaluating model performance, and visualizing results.
+
 ![image](https://github.com/user-attachments/assets/19912875-350d-4ee1-828d-8890c1722e98)
 ![image](https://github.com/user-attachments/assets/410edcff-7fec-4c54-b1cb-2f19049934b2)
 ![image](https://github.com/user-attachments/assets/fdc7fb9b-f79c-4158-baf8-ddafc3082ff9)
